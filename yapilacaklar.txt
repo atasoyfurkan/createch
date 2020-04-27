@@ -1,0 +1,10 @@
+client kismindaki fotograflarin boyutu ayarlanacak
+ -referandom icin logo photoshoptan maviye boyancak
+ -mobile icin duzeltmeler yapilacak
+
+team kismi icin 
+ -hazar fotograf
+ -dogukan fotografi desktop ve mobil icin size ayarlanacak
+
+
+portfolio details kismi duzenlenecek
