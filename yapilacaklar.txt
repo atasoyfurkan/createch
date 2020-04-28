@@ -9,3 +9,5 @@ team kismi icin
 teams kismina sosyal medyalari gir
 
 portfolio resimleri hazirlanacaklar
+
+portfolio yerini yukari cikar
